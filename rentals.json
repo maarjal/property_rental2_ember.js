@@ -16,5 +16,18 @@
     "type": "Apartment",
     "bedrooms": 3,
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg"
-  }]
+  }],
+  "announcements": [{
+      "name": "Veruca Salt",
+      "title": "Bad Weather in New York",
+      "message": "Prepare for snow"
+    }, {
+      "name": "Mike Teavee",
+      "title": "Something fun",
+      "message": "something fun in some town"
+    }, {
+      "name": "Violet Beauregarde",
+      "title": "another announcement",
+      "message": "something to do in some place"
+    }]
 }

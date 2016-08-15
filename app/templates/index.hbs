@@ -8,7 +8,15 @@ We hope you find exactly what you're looking for in a place to stay.
   {{/each}}
 </ul>
 
+<!-- <ul>
+  {{#each model as |announcement|}}
+    {{announcement-tile announcement=announcement destroyAnnouncement="destroyAnnouncement"}}
+  {{/each}}
+</ul> -->
+
 {{new-rental save2="save3"}}
+<!-- {{new-announcement save2="save3"}} -->
 
 {{#link-to 'about'}}About{{/link-to}}
 {{#link-to 'contact'}}Click here to contact us.{{/link-to}}
+{{#link-to 'announcements'}}Click here to read announcement.{{/link-to}}
