@@ -29,5 +29,12 @@
       "name": "Violet Beauregarde",
       "title": "another announcement",
       "message": "something to do in some place"
-    }]
+    }],
+    "cities": [{
+    "name": "Portland",
+    "country": "USA"
+  }, {
+    "name": "Seattle",
+    "country": "USA"
+  }]
 }

@@ -3,10 +3,10 @@
 module.exports = function(environment) {
   var ENV = {
     firebase: {
-      apiKey:"AIzaSyC7B4Tl5VwVU54QzX8ktH3AuIQVqrPZRtQ",
-      authDomain: "super-rentals-f9ac2.firebaseapp.com",
-      databaseURL: "https://super-rentals-f9ac2.firebaseio.com",
-      storageBucket: "super-rentals-f9ac2.appspot.com",
+      apiKey: "AIzaSyC6pk7aq_VSpOZ94Plo56rWlbMsE4gNWiw",
+      authDomain: "super-rentals-405e3.firebaseapp.com",
+      databaseURL: "https://super-rentals-405e3.firebaseio.com",
+      storageBucket: "super-rentals-405e3.appspot.com",
     },
     modulePrefix: 'super-rentals',
     environment: environment,
